@@ -20,15 +20,3 @@ Nos foi proposto que desenvolvessemos junto ao Pablo uma formulário de Login e 
 - React Hook Forms
 - Yup
 
-## 🔗 Acesso 
-
-Para acessar a Wiki, basta <a href="https://validacao-com-ts.vercel.app/">clicar aqui</a>!
-
-----
-
-## 🤳 Demo
-
-| Versão Desktop |
-| -------------- |
-| ![Página de Login](public/images/desktop.gif) |
-|
